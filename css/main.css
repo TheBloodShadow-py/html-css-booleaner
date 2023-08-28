@@ -40,6 +40,10 @@ header{
     color: rgb(33, 169, 229);
 }
 
+.sub_title span:hover{
+    cursor: pointer;
+}
+
 .sub_title{
     font-size: 17px;
 }
