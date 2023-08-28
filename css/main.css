@@ -51,3 +51,32 @@ header{
 .img_desc{
     font-size: 12px;
 }
+
+article p{
+    margin-top: 25px;
+    margin-bottom: 35px;
+}
+
+article ul{
+    margin-left: 12px;
+    margin-bottom: 35px;
+}
+
+table{
+    text-align: left;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td{
+    padding-right: 100px;
+    vertical-align:middle;
+}
+
+td:not(.last_td), th{
+    white-space: nowrap;
+}
+
+thead{
+    background-color: #20a9e5;
+}
