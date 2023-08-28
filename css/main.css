@@ -3,6 +3,11 @@
     padding: 0;
 }
 
+main{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
 header{
     background-color: rgb(77, 160, 254);
     background-image: url("../img/pattern.png");
@@ -16,5 +21,29 @@ header{
 .logo{
     width: 150px;
     margin-top: 25px;
-    margin-left: 5px;
+}
+
+.title_box{
+    margin-bottom: 20px;
+}
+
+.title_box h1{
+    font-size: 40px;
+}
+
+.sub_title, .small_sub_title{
+    color: gray;
+    padding-bottom: 2px;
+}
+
+.sub_title span{
+    color: rgb(33, 169, 229);
+}
+
+.sub_title{
+    font-size: 17px;
+}
+
+.small_sub_title{
+    font-size: 12px;
 }
