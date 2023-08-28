@@ -102,3 +102,7 @@ footer p{
     padding: 0;
     height: 220px;
 }
+
+.highlighter{
+    background-color: yellow;
+}
